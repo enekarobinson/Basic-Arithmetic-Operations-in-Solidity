@@ -1,4 +1,5 @@
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.26;
+
 
 contract ArithmeticOperations{
     function add(uint a, uint b) public pure returns (uint) {
