@@ -91,5 +91,3 @@ The Solidity code for this contract can be found in the file [ArithmeticOperatio
 
 - Solidity version: `^0.8.26`
 - Remix IDE or any Solidity-compatible development environment.
-
-This README provides a quick reference for the contract’s structure and intended usage, helping users understand each function’s purpose and expected outputs.
